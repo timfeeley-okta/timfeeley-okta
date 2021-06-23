@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @timfeeley-okta
-- 🧑‍💻 I'm a PM on Identity Experience
-- 🌱 I’m currently learning about life at Okta!
+👋 Hi, I’m Tim!
+I’m a Product Manager for Okta Identity Engine.
